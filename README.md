@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning languages ​​such as: JavaScript, TypeScript, HTML5 and CSS3
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=araujoedu7&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=antonysantos71&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=antonysantos71&theme=blue-green&hide_border=false)<br/># 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=antonysantos71&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=antonysantos71&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
