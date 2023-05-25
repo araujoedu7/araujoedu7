@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=araujoedu7&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/># 📊 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+![](https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/> 
   
   <img align="center" alt="ea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
