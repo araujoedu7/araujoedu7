@@ -16,7 +16,7 @@
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APHP-logo.svg&psig=AOvVaw1bb33qkifSc-TEKnTOEZ1x&ust=1702493191292000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjL5s7HioMDFQAAAAAdAAAAABAD)">
+
 
     
  </div>
