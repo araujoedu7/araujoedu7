@@ -4,7 +4,6 @@
 
 # 📊 GitHub Stats:
 
-(https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/> 
   
 </ul>
 <div align="center">
