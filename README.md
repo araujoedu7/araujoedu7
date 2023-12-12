@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning languages ​​such as: JavaScript, TypeScript, HTML5 and CSS3
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=araujoedu7&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/> 
   
 </ul>
