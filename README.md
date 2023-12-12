@@ -6,11 +6,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=araujoedu7&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=araujoedu7&theme=blue-green&hide_border=false)<br/> 
   
-  <img align="center" alt="ea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  <img align="right" alt="Tem uma foto aqui =)" height="150" style="border-radius:50px;" src="">
+</ul>
+<div align="center">
+  <a href="https://github.com/araujoedu7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujoedu7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictormotasilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    
+ </div>
 
 
 <br>
