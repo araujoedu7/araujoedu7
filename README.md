@@ -1,7 +1,7 @@
 ### Olá! Sou o Eduardo Araújo, estudante de informática. Atualmente com foco em back-end🖖
 
-   [![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/e.araujo07)
-
+   [![INSTAGRAM]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://intagram.com/e.araujo07)
+     [![LINKEDIN](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/eduardo-araujo-7435441b6/)
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoedu7&show_icons=true&theme=onedark)<br><br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoedu7)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,4 +25,5 @@
        <img aling="center" alt="Battle.net" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"> 
        <img aling="center" alt="Spotfy" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> 
        <img aling="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
+  
      </div>
