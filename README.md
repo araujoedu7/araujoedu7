@@ -25,5 +25,4 @@
        <img aling="center" alt="Battle.net" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"> 
        <img aling="center" alt="Spotfy" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> 
        <img aling="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
-  
-     </div>
+      </div>
