@@ -1,8 +1,8 @@
 ### Olá! Sou o Eduardo Araújo, estudante de informática. Atualmente com foco em back-end🖖
 
-   [![INSTAGRAM]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://intagram.com/e.araujo07)
-     [![LINKEDIN](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/eduardo-araujo-7435441b6/)
-
+   [![INSTAGRAM]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/eduardo-araujo-7435441b6/)
+     [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://intagram.com/e.araujo07)
+	
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoedu7&show_icons=true&theme=onedark)<br><br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoedu7)](https://github.com/anuraghazra/github-readme-stats)
 
