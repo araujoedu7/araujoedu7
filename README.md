@@ -1,4 +1,5 @@
-### Olá! Sou o Eduardo Araújo, estudante de informática. Atualmente com foco em back-end🖖
+### Web Developer
+### 🌱 Always learning every day.
 
    [![INSTAGRAM]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/e.araujo07)
      [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-araujo-7435441b6/)
